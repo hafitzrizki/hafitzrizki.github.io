@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" # "default","air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "Web Journey"
+title_separator          : "|"
+name                     : "Hafitz Rizki"
+description              : "Developer For Fun."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,11 +90,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hafitz Rizki"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Depok, Indonesia"
+  email            : "hafitzrizki@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
