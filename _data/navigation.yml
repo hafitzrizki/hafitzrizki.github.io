@@ -12,10 +12,10 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: /tags/
-  - title: "Java"
-    url: /year-archive/
   - title: "Android"
     url: /categories/
+  - title: "Javascript"
+    url: /year-archive/
   - title: "PHP"
     url: /parent-2-page-url/
   - title: "About"
