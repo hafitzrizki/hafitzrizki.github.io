@@ -12,31 +12,20 @@ main:
   #   url: /sitemap/
   - title: "Quick-Start Guide Offline"
     url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-  - title: "Child Link 1"
-    url: /child-1-page-url/
-  - title: "Child Link 2"
-    url: /child-2-page-url/
-  - title: "Child Link 3"
-    url: /child-3-page-url/
-  - title: "Tags"
+  - title: "Home"
     url: /tags/
-  - title: "Pages"
+  - title: "Java"
+    url: /year-archive/
+  - title: "Android"
+    url: /categories/
+  - title: "PHP"
+    url: /parent-2-page-url/
+  - title: "About"
     url: /page-archive/
-  - title: "Collections"
+  - title: "Contact"
     url: /collection-archive/
-  - title: "External Link"
+  - title: "Sitemap"
     url: https://google.com
-  - title: "Parent Link 1"
+  - title: "Privacy Policy"
     url: /parent-1-page-url/
-    children:
-    - title: "Child Link 1"
-      url: /child-1-page-url/
-    - title: "Child Link 2"
-      url: /child-2-page-url/
+    
