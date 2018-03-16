@@ -10,8 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Quick-Start Guide Offline"
-    url: /docs/quick-start-guide/
   - title: "Home"
     url: /tags/
   - title: "Java"
